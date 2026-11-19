@@ -310,5 +310,5 @@ if submitted:
                     st.warning(error)
 
 st.markdown("---")
-st.caption("HCT: longitude 78.96° E, latitude 32.78° N, elevation 4500 m. Ephemerides are queried live from NASA/JPL Horizons. Verify generated trackfiles before telescope use.")
-st.caption("Software workflow adapted from the original HCT Trackfile Creator by Aravind K. | University of Liège | MIT-licensed project.")
+st.caption("HCT: longitude 78.96° E, latitude 32.78° N, elevation 4500 m. Ephemerides are queried live from NASA/JPL Horizons.")
+st.caption("Software workflow adapted from the original HCT Trackfile Created by Dr. Aravind Krishnakumar | University of Liège | ")
